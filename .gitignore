@@ -1,0 +1,7 @@
+.env
+.log
+**/log
+**/dll
+.dll
+launch.json
+tasks.json
