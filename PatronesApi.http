@@ -1,0 +1,6 @@
+@PatronesApi_HostAddress = http://localhost:5062
+
+GET {{PatronesApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
