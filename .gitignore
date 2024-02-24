@@ -8,3 +8,5 @@ tasks.json
 bin
 obj
 Properties
+obj/Debug/net8.0/PatronesApi.AssemblyInfo.cs
+obj/Debug/net8.0/PatronesApi.AssemblyInfoInputs.cache
