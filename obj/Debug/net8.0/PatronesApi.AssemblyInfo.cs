@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PatronesApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bacd35079581e0e7efb782d0463e365fd8414b60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c02c87ee6e4abc422156f4dacc819f100e4554f")]
 [assembly: System.Reflection.AssemblyProductAttribute("PatronesApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PatronesApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
